@@ -1,6 +1,6 @@
 {
-    "name": "andresrodriguez/post",
-    "description": "Proyecto de OOP",
+    "name": "andres312/tdd",
+    "description": "Proyecto de OOP con phpunit",
     "autoload": {
         "psr-4": {
             "App\\": "src/"
